@@ -37,28 +37,6 @@ I believe that good software is not only about making things work, but about mak
 
 ---
 
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/Ahmad-Elhajj-04" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/ahmadelhajj-softwaredeveloper" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-</a>
-</p>
-
-<a href="https://www.github.com/Ahmad-Elhajj-04" target="_blank">
-<img src="https://img.shields.io/github/followers/Ahmad-Elhajj-04?logo=github&style=for-the-badge&color=22c55e&labelColor=22272e" />
-</a>
-
----
-
-### GitHub Stats
-
-<a href="http://www.github.com/Ahmad-Elhajj-04">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Elhajj-04&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true" />
-</a>
 
 <a href="http://www.github.com/Ahmad-Elhajj-04">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Elhajj-04&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" />
