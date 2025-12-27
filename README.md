@@ -35,8 +35,6 @@ I believe that good software is not only about making things work, but about mak
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress" /></a>
 </p>
 
----
-
 
 <a href="http://www.github.com/Ahmad-Elhajj-04">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Elhajj-04&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" />
