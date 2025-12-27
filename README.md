@@ -38,5 +38,4 @@ I believe that good software is not only about making things work, but about mak
 ---
 
 <a href="https://github.com/Ahmad-Elhajj-04">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Elhajj-04&langs_count=10&title_color=14b8a6&text_color=ffffff&bg_color=22272e&hide_border=true" />
 </a>
